@@ -1,0 +1,13 @@
+.segment {
+    width: 80px;
+}
+
+.numbers {
+    transform: translateX(-50%);
+    font-size: 32px;
+    animation: animate-fade 1s;
+}
+
+.label {
+    font-size: 16px;
+}
